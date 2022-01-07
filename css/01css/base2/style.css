@@ -1,0 +1,12 @@
+.special{
+    font-family: 'Bad Script', cursive;
+
+}
+.specialBold{
+    font-family: 'Bad Script', cursive;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.right{
+    text-align: right;
+}
